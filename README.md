@@ -4,17 +4,19 @@
 
 *I like:*
 
--**cats**;
+-**cats**:pouting_cat::purple_heart:;
 
--eating sweets;
+-eating sweets :eyes::tongue:;
 
--sport;
+-sport :speak_no_evil:;
 
 -play computer games.
 
 *I **don't** like:*
 
-1!**liars**
+!**liars**! :neckbeard:
+
+**Siencerely, Darя!**
 <!--
 **kotovadasha210-ui/kotovadasha210-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
