@@ -1,20 +1,15 @@
-*Hi there 👋*
+# *Hi there 👋*
 
 *My name is Dasha!**I head of group** and proforg 41STK* 
 
 *I like:*
-
--**cats**:pouting_cat::purple_heart:;
-
--eating sweets :eyes::tongue:;
-
--sport :speak_no_evil:;
-
--play computer games.
+- **cats**:pouting_cat::purple_heart:;
+- eating sweets :eyes::tongue:;
+- sport :speak_no_evil:;
+- play computer games.
 
 *I **don't** like:*
-
-!**liars**! :neckbeard:
+- !**liars**! :neckbeard:
 
 **Siencerely, Darя!**
 <!--
